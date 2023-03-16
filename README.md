@@ -2,7 +2,9 @@ Hola! Mi nombre es Thomas Liendo, soy un programador fullstack orientado a front
 
 Quién soy?
 
-Este amor por la tecnología se inicio en mi infancia cuando mi familia me compraba consolas o la primera vez que tuve una PC, y a su vez, despues conocí el mundo de la programación. Mi primer lenguaje fue JavaScript y sin duda una de las experiencias más motivadoras fue mi acercamiento al código
+Soy Liendo Thomas, estudiante recibido de la carrera Full Stack Web Developer en Henry, manejando tecnologías como React, Node.js, Redux, Express, PostgreSQL, JavaScript, HTML, CSS.
+
+Soy una persona proactiva, me gusta trabajar en equipo, apoyarse mutuamente en grupo para lograr un objetivo en comun, aprender y capacitarme constantemente para poder desarrollarme mejor en mi labor y tambien asi mejorar mis habilidades y aptitudes tanto interpersonales como en programacion al máximo.
 
 Qué hago?
 
